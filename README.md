@@ -4,7 +4,7 @@
 ## Installation
 to start this repo, you need to at least have appwrite installed, to run appwrite you can follow this [link](https://appwrite.io/docs/installation)
 
-After having appwrite installed, go to [http://localhost:8080/](http://localhost:8080/) 
+After having appwrite installed, go to [http://localhost:8080/](http://localhost:8080/)
 note: port based on number you entered when you first installed appwrite.
 
 Create .env files and add these to your .env file:
@@ -22,4 +22,4 @@ npm run dev
 ```
 
 To add new task, make sure that this settings are enabled in your collection:
-<img width="942" alt="image" src="https://user-images.githubusercontent.com/38250310/196171762-9a24c26b-84db-4cff-974e-a03724f9ad91.png">
+![image](https://user-images.githubusercontent.com/38250310/196172621-bd0f23f0-d8e8-48f7-aa91-a03ef4fb0979.png)
